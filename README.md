@@ -84,5 +84,23 @@ This project analyzes historical sales data from a global superstore to uncover 
 ```bash
 git clone https://github.com/Aishwaryajohn97/sales-performance.git
 
+2. Install Dependencies:
+
+pip install pandas matplotlib plotly nbformat
+
+3.Open the Notebook:
+
+jupyter notebook notebooks/sales_eda.ipynb
+
+4. Run cells to view KPIs, charts, and insights interactively.
+
+## 📞 Contact
+
+Aishwarya John Pole
+
+LinkedIn: www.linkedin.com/in/aishwarya-john-pole-b23452236
+GitHub: github.com/Aishwaryajohn97
+Email: aishwaryajohnpolemadhu@gmail.com
+
 
 
