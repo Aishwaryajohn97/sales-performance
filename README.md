@@ -94,13 +94,8 @@ jupyter notebook notebooks/sales_eda.ipynb
 
 4. Run cells to view KPIs, charts, and insights interactively.
 
-## 📞 Contact
 
-Aishwarya John Pole
 
-LinkedIn: www.linkedin.com/in/aishwarya-john-pole-b23452236
-GitHub: github.com/Aishwaryajohn97
-Email: aishwaryajohnpolemadhu@gmail.com
 
 
 
